@@ -63,7 +63,6 @@ input {
     border: 1px solid darkslategray;
     box-shadow: 1px 1px 4px 1px;
     font-size: 15px;
-    -webkit-text-stroke: thin;
 }
 h3 {
     margin: 5px;
